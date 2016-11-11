@@ -1,0 +1,5 @@
+section .btn{background:#e4366b;color:#fff;font-family: "微软雅黑";font-size:20px;z-index:2;position:absolute;left:50%;top:70%;transform: translate(-50%,-50%);}
+
+
+footer{position:fixed;height:20%;bottom:0;width:100%;background-color: #f8f3f7;}
+footer img{width: 100%;position:absolute;bottom:0;}
